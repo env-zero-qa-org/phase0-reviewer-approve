@@ -1,0 +1,3 @@
+* @bot-env0
+/codeowners-app-test/ @env0-dev[bot]
+/codeowners-app-test-2/ @apps/env0-dev
